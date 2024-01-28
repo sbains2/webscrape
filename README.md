@@ -22,7 +22,7 @@ With Gaza, some of the key terms were more generalized, with some being 'deaths'
 
 ## 4) Possible reasons for patterns
 
-
+A few possible reasons for these patterns in the wordcloud are media biases in the current geopolitical climate, as well as audience demographics. The current URL crawler may only cover a range of news outlets that had the most views, leading to the prominence of certain keywords. The current geopolitical context, the war between Israel and Hamas, including Middle Eastern proxy states also may have influenced the keywords.
 
 ## 5) Future Research Improvements
 
