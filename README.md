@@ -1,4 +1,6 @@
 # Webscrape project
+# Sahil Bains
+# GEOG 458
 
 
 ## 1) Topic and Search Parameters
