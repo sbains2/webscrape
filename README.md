@@ -35,5 +35,9 @@ An unexpected finding out of this specific assignment would be that most of the 
 
 ## 7) Exported word clouds/data spreadsheets
 
+
+### Gaza 
 ![Word Cloud 1](img/Gaza.png)
+
+### Israel
 ![Word Cloud 2](img/Israel.png)
